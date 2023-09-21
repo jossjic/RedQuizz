@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">views</string>
+    <string name="prueba_actualizacion">Prueba Actualizacion</string>
+    <string name="go">Go</string>
 </resources>
